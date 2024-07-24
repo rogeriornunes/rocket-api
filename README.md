@@ -3,10 +3,6 @@ O Api para cadastramento de clientes.
 
 
 ## 📝 Tecnologias
-- [Angular](https://angular.io/)
-- [Angular Material](https://material.angular.io/)
-- [Typescript](https://www.typescriptlang.org/)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [Java 14](https://www.oracle.com/br/java/technologies/javase/jdk14-archive-downloads.html)
 - [Spring Boot](https://spring.io/projects/spring-boot)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
@@ -36,30 +32,6 @@ $  vim  src/main/resources/application.properties
 
 # O servidor inciará na porta:8080 - acesse http://localhost:8080
 ```
-
-
-### 🎲 Rodando o Frontend (cliente)
-
-  
-
-```bash
-# Clone este repositório
-$  git  clone
-
-# Acesse a pasta do projeto no terminal/cmd
-$  cd  rocket-ui/rocket-app 
-
-# Instale as dependências
-$  npm  install 
-
-# Execute a aplicação em modo de desenvolvimento
-$  ng  serve
-  
-# O servidor inciará na porta:4200 - acesse http://localhost:4200
-
-```
-
-  
 
 ## 📝 Autor
 
